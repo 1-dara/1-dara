@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-ff1a4d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1ireneokon@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-ff1a4d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/r_3n_3?s=11)
 
-<img src="./assets/software-girl.jpeg" width="250">
+<img src="./assets/software-girl.jpeg" width="500" height="300">
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 👩🏾‍💻 About Me
 
-I'm a software developer based in Nigeria, focused on backend engineering. I build production-grade REST APIs across two stacks — Python/FastAPI and Node.js/TypeScript — and I care about writing code that actually works in production.
+I'm a software developer, focused on backend engineering. I build production-grade REST APIs across two stacks — Python/FastAPI and Node.js/TypeScript — and I care about writing code that actually works in production.
 
 My background in QA engineering and IT support means I think about systems from multiple angles — not just "does it run" but "does it hold up."
 
