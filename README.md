@@ -11,8 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-ff1a4d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1ireneokon@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-ff1a4d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/r_3n_3?s=11)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-
+<img src="./assets/software girl.jpeg" width="250">
 </div>
 
 ---
