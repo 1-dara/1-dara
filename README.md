@@ -25,7 +25,6 @@ My background in QA engineering and IT support means I think about systems from 
 
 I have **6 deployed projects** live right now, spanning real estate, inventory management, e-learning, task management, personal finance, and a deliberate cross-stack rebuild that demonstrates I can re-architect systems across languages.
 
-- 🌍 Based in Nigeria
 - 💼 Open to remote software developer roles
 - 🚀 6 deployed APIs and counting
 - 🧠 Always learning something new
@@ -59,11 +58,17 @@ I have **6 deployed projects** live right now, spanning real estate, inventory m
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-dara&show_icons=true&theme=dark&bg_color=170307&title_color=ff1a4d&icon_color=ff1a4d&text_color=fff5f5&border_color=6e1a2b)
+<img src="https://github-readme-stats.vercel.app/api?username=1-dara&show_icons=true&theme=dark&bg_color=170307&title_color=ff1a4d&icon_color=ff1a4d&text_color=fff5f5&border_color=6e1a2b"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-dara&layout=compact&theme=dark&bg_color=170307&title_color=ff1a4d&text_color=fff5f5&border_color=6e1a2b)
+<br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=1-dara&theme=dark&background=170307&ring=ff1a4d&fire=ff1a4d&currStreakLabel=ff1a4d&border=6e1a2b&sideLabels=fff5f5&dates=d99aa6&sideNums=fff5f5&currStreakNum=ff1a4d)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-dara&layout=compact&theme=dark&bg_color=170307&title_color=ff1a4d&text_color=fff5f5&border_color=6e1a2b"/>
+
+<img height="180em" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx5cTZsaGh0aG9pY3JqOXU2OW52bGRhdTdwam96NjN3b2Y0eGt4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=1-dara&theme=dark&background=170307&ring=ff1a4d&fire=ff1a4d&currStreakLabel=ff1a4d&border=6e1a2b&sideLabels=fff5f5&dates=d99aa6&sideNums=fff5f5&currStreakNum=ff1a4d"/>
 
 </div>
 
