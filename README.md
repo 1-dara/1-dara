@@ -36,6 +36,7 @@ I have **6 deployed projects** live right now, spanning real estate, inventory m
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,python,typescript,javascript,fastapi,express,nodejs,postgres,mongodb,prisma,git,github,vscode,postman&theme=dark" />
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-6C47FF?style=for-the-badge)
 
 </div>
 
