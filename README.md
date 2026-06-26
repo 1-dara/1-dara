@@ -34,8 +34,7 @@ I have **6 deployed projects** live right now, spanning real estate, inventory m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,typescript,javascript,fastapi,express,nodejs,postgres,mongodb,prisma,git,github,vscode,postman&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,fastapi,express,nodejs,postgres,mongodb,prisma,git,github,vscode,postman&theme=dark" />
 </div>
 
 
