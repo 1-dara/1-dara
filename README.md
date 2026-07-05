@@ -72,7 +72,7 @@ My repositories showcase production-ready REST APIs, database design, authentica
 ## 📫 Get In Touch
 
 - 📧 [1ireneokon@gmail.com](mailto:1ireneokon@gmail.com)
-- 🌐 [1-dara.github.io/portfolio](https://1-dara.github.io/portfolio)
+- 🌐 [https://irene-okon.vercel.app/](https://irene-okon.vercel.app/)
 - 📱 +234 907 434 2716
 
 ---
