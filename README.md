@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
 
 # Hi, I'm Irene <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-### Software Developer | Backend Engineering
+### Backend Software Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1-dara&color=ff1a4d&style=for-the-badge)
 
@@ -55,13 +55,13 @@ I have **6 deployed projects** live right now, spanning real estate, inventory m
 
 ---
 
-## 📊 My Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-dara&show_icons=true&theme=dark&bg_color=170307&title_color=ff1a4d&icon_color=ff1a4d&text_color=fff5f5&border_color=6e1a2b)
+I consistently build and ship backend applications using Python/FastAPI and Node.js/TypeScript. 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-dara&layout=compact&theme=dark&bg_color=170307&title_color=ff1a4d&text_color=fff5f5&border_color=6e1a2b)
+My repositories showcase production-ready REST APIs, database design, authentication, testing, and deployment
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=1-dara&theme=dark&background=170307&ring=ff1a4d&fire=ff1a4d&currStreakLabel=ff1a4d&border=6e1a2b&sideLabels=fff5f5&dates=d99aa6&sideNums=fff5f5&currStreakNum=ff1a4d)
 
