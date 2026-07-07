@@ -3,46 +3,61 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
 
 # Hi, I'm Irene <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-### Backend Software Engineer
+### Backend Software Engineer • QA Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1-dara&color=ff1a4d&style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff1a4d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://1-dara.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-ff1a4d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1ireneokon@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-ff1a4d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/r_3n_3?s=11)
+[![Twitter](https://img.shields.io/badge/Twitter-ff1a4d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IreneIdara?s=11)
 
 <img src="./assets/software-girl.jpeg" width="500" height="200">
 </div>
 
 ---
 
-## 👩🏾‍💻 About Me
+##  About Me
 
 I'm a software developer, focused on backend engineering. I build production-grade REST APIs across two stacks — Python/FastAPI and Node.js/TypeScript — and I care about writing code that actually works in production.
+
+I'm also a QA Engineer, with experience testing web applications, identifying defects, validating requirements, and helping deliver reliable software through structured quality assurance processes.
 
 My background in QA engineering and IT support means I think about systems from multiple angles — not just "does it run" but "does it hold up."
 
 I have **6 deployed projects** live right now, spanning real estate, inventory management, e-learning, task management, personal finance, and a deliberate cross-stack rebuild that demonstrates I can re-architect systems across languages.
 
-- 💼 Open to remote software developer roles
-- 🚀 6 deployed APIs and counting
-- 🧠 Always learning something new
+-  Open to remote Software Developer and QA Engineer roles
+-  6 deployed APIs and counting
+-  Always learning something new
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
+###  Backend Languages & Tools
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,fastapi,express,nodejs,postgres,mongodb,prisma,git,github,vscode,postman&theme=dark" />
 </div>
 
+###  QA Tools
+
+<div align="center">
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
 
 </div>
 
 ---
 
-## 🚀 Live Projects
+##  Live Projects
 
 | Project | Stack | Live | Repo |
 |---|---|---|---|
@@ -55,7 +70,7 @@ I have **6 deployed projects** live right now, spanning real estate, inventory m
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -69,7 +84,7 @@ My repositories showcase production-ready REST APIs, database design, authentica
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 - 📧 [1ireneokon@gmail.com](mailto:1ireneokon@gmail.com)
 - 🌐 [https://irene-okon.vercel.app/](https://irene-okon.vercel.app/)
