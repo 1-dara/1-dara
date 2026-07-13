@@ -88,7 +88,7 @@ My repositories showcase production-ready REST APIs, database design, authentica
 
 - 📧 [1ireneokon@gmail.com](mailto:1ireneokon@gmail.com)
 - 🌐 [https://irene-okon.vercel.app/](https://irene-okon.vercel.app/)
-- 📱 +234 907 434 2716
+- 📱 [https://wa.me/2349074342716](https://wa.me/2349074342716)
 
 ---
 
