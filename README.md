@@ -3,13 +3,14 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
 
 # Hi, I'm Irene <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-### Backend Software Engineer • QA Engineer
+### Backend Software Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=1-dara&color=ff1a4d&style=for-the-badge)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff1a4d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://1-dara.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff1a4d?style=for-the-badge&logo=vercel&logoColor=white)](https://irene-okon.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1-dara)
 [![Email](https://img.shields.io/badge/Email-ff1a4d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1ireneokon@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-ff1a4d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IreneIdara?s=11)
+
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-ff1a4d?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=1-dara&color=ff1a4d&style=for-the-badge)
 
 <img src="./assets/software-girl.jpeg" width="500" height="200">
 </div>
@@ -18,16 +19,15 @@
 
 ##  About Me
 
-I'm a software developer, focused on backend engineering. I build production-grade REST APIs across two stacks — Python/FastAPI and Node.js/TypeScript — and I care about writing code that actually works in production.
+I'm a Backend Software Engineer passionate about building scalable, secure, and production-ready backend systems.
 
-I'm also a QA Engineer, with experience testing web applications, identifying defects, validating requirements, and helping deliver reliable software through structured quality assurance processes.
+I primarily work with **Python/FastAPI**, **Node.js/TypeScript**, and **Laravel/PHP**, designing REST APIs, authentication systems, database architectures, caching strategies, and cloud deployments.
 
-My background in QA engineering and IT support means I think about systems from multiple angles — not just "does it run" but "does it hold up."
+I enjoy solving backend challenges, optimizing performance, and writing clean, maintainable code that powers real-world applications.
 
-I have **6 deployed projects** live right now, spanning real estate, inventory management, e-learning, task management, personal finance, and a deliberate cross-stack rebuild that demonstrates I can re-architect systems across languages.
 
--  Open to remote Software Developer and QA Engineer roles
--  6 deployed APIs and counting
+-  Open to remote Software Developer 
+-  8 deployed APIs and counting
 -  Always learning something new
 
 ---
@@ -35,22 +35,12 @@ I have **6 deployed projects** live right now, spanning real estate, inventory m
 ##  Languages & Tools
 
 ###  Backend Languages & Tools
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,fastapi,express,nodejs,postgres,mongodb,prisma,git,github,vscode,postman&theme=dark" />
-</div>
-
-###  QA Tools
 
 <div align="center">
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,fastapi,express,nodejs,laravel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,git,github,vscode,postman&theme=dark" />
 </div>
 
 </div>
@@ -67,6 +57,8 @@ I have **6 deployed projects** live right now, spanning real estate, inventory m
 | Learning Management System API | Python • FastAPI • PostgreSQL | [Live](https://lms-api-3p9x.onrender.com) | [GitHub](https://github.com/1-dara/lms-api) |
 | Expense Tracker API | TypeScript • Node.js • MongoDB | [Live](https://expense-tracker-api-cfo5.onrender.com) | [GitHub](https://github.com/1-dara/expense-tracker-api) |
 | Task Manager API | JavaScript • Node.js • PostgreSQL | [Live](https://task-manager-api-n7wv.onrender.com) | [GitHub](https://github.com/1-dara/task-manager-api) |
+| Task Manager API (PHP Edition) | PHP • Laravel • PostgreSQL  | [Live](https://task-manager-api-php.onrender.com) | [GitHub](https://github.com/1-dara/task-manager-api-php) |
+| Blog CMS API | PHP • Laravel • PostgreSQL • Sanctum | [Live](https://blog-cms-api-j8mx.onrender.com) | [GitHub](https://github.com/1-dara/blog-cms-api) |
 
 ---
 
@@ -74,25 +66,36 @@ I have **6 deployed projects** live right now, spanning real estate, inventory m
 
 <div align="center">
 
-I consistently build and ship backend applications using Python/FastAPI and Node.js/TypeScript. 
+I enjoy building production-ready backend applications and continuously exploring new technologies and frameworks.
 
-My repositories showcase production-ready REST APIs, database design, authentication, testing, and deployment
+My repositories showcase scalable REST APIs, authentication, database design, caching, and cloud deployment across multiple backend ecosystems.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=1-dara&theme=dark&background=170307&ring=ff1a4d&fire=ff1a4d&currStreakLabel=ff1a4d&border=6e1a2b&sideLabels=fff5f5&dates=d99aa6&sideNums=fff5f5&currStreakNum=ff1a4d)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=1-dara&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Snake animation](https://raw.githubusercontent.com/1-dara/1-dara/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-##  Get In Touch
+### Thanks for stopping by! 👋
 
-- 📧 [1ireneokon@gmail.com](mailto:1ireneokon@gmail.com)
-- 🌐 [https://irene-okon.vercel.app/](https://irene-okon.vercel.app/)
-- 📱 [https://wa.me/2349074342716](https://wa.me/2349074342716)
+If you're building something interesting or looking for a backend engineer, I'd love to connect.
+
+- 📧 **Email:** [1ireneokon@gmail.com](mailto:1ireneokon@gmail.com)
+- 🌐 **Portfolio:** https://irene-okon.vercel.app
+- 💻 **GitHub:** https://github.com/1-dara
+- 💬 **WhatsApp:** https://wa.me/2349074342716
 
 ---
 
 <div align="center">
+
+## ❤️ Support
+
+If you like my work, consider giving a ⭐ to a repository or connecting with me.
 
 *"I build the invisible layer that powers everything."*
 
