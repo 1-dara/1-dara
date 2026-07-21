@@ -24,15 +24,11 @@ I'm a Backend Software Engineer who enjoys designing and building scalable, secu
 I enjoy solving complex backend problems and writing clean, maintainable code that powers real-world products. My repositories reflect hands-on experience across multiple backend ecosystems, featuring production-style APIs, robust authentication, caching, and scalable architectures.
 
 -  Open to remote Backend Engineer roles 
--  8 deployed APIs and counting
 -  Always learning something new
 
 ---
 
 ##  Languages & Tools
-
-###  Backend Languages & Tools
-
 
 <p align="center">
 
@@ -75,18 +71,9 @@ I enjoy solving complex backend problems and writing clean, maintainable code th
 
 ---
 
-##  Live Projects
+<div align="center">
 
-| Project | Stack | Live | Repo |
-|---|---|---|---|
-| Real Estate API (TypeScript) | TS • Node.js • PostgreSQL • Prisma | [Live](https://real-estate-ts.onrender.com) | [GitHub](https://github.com/1-dara/real-estate-ts) |
-| Real Estate API (Python) | Python • FastAPI • PostgreSQL | [Live](https://real-estate-api-1-6678.onrender.com) | [GitHub](https://github.com/1-dara/real-estate-api) |
-| Inventory Management API | Python • FastAPI • PostgreSQL | [Live](https://inventory-api-vd7f.onrender.com) | [GitHub](https://github.com/1-dara/inventory-api) |
-| Learning Management System API | Python • FastAPI • PostgreSQL | [Live](https://lms-api-3p9x.onrender.com) | [GitHub](https://github.com/1-dara/lms-api) |
-| Expense Tracker API | TypeScript • Node.js • MongoDB | [Live](https://expense-tracker-api-cfo5.onrender.com) | [GitHub](https://github.com/1-dara/expense-tracker-api) |
-| Task Manager API | JavaScript • Node.js • PostgreSQL | [Live](https://task-manager-api-n7wv.onrender.com) | [GitHub](https://github.com/1-dara/task-manager-api) |
-| Task Manager API (PHP Edition) | PHP • Laravel • PostgreSQL  | [Live](https://task-manager-api-php.onrender.com) | [GitHub](https://github.com/1-dara/task-manager-api-php) |
-| Blog CMS API | PHP • Laravel • PostgreSQL • Sanctum | [Live](https://blog-cms-api-j8mx.onrender.com) | [GitHub](https://github.com/1-dara/blog-cms-api) |
+*"I build the invisible layer that powers everything."*
 
 ---
 
@@ -100,23 +87,24 @@ I enjoy solving complex backend problems and writing clean, maintainable code th
 
 ---
 
+<div align="center">
+
+##  Support ❤️
+
+If you like my work, consider giving a ⭐ to a repository or connecting with me.
+
+---
+
+<div align="left">
+
 ### Thanks for stopping by! 👋
 
 If you're building something interesting or looking for a backend engineer, I'd love to connect.
 
-- 📧 **Email:** [1ireneokon@gmail.com](mailto:1ireneokon@gmail.com)
-- 🌐 **Portfolio:** https://irene-okon.vercel.app
-- 💻 **GitHub:** https://github.com/1-dara
-- 💬 **WhatsApp:** https://wa.me/2349074342716
+-  **Email:** [1ireneokon@gmail.com](mailto:1ireneokon@gmail.com)
+-  **Portfolio:** https://irene-okon.vercel.app
+-  **GitHub:** https://github.com/1-dara
+-  **WhatsApp:** https://wa.me/2349074342716
 
----
-
-<div align="center">
-
-## ❤️ Support
-
-If you like my work, consider giving a ⭐ to a repository or connecting with me.
-
-*"I build the invisible layer that powers everything."*
 
 </div>
