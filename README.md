@@ -89,14 +89,6 @@ I enjoy solving complex backend problems and writing clean, maintainable code th
 
 ---
 
-##  Support ❤️
-
-<div align="left">
-
-If you like my work, consider giving a ⭐ to a repository or connecting with me.
-
----
-
 <div align="left">
 
 ### Thanks for stopping by! 👋
@@ -108,5 +100,10 @@ If you're building something interesting or looking for a backend engineer, I'd 
 -  **GitHub:** https://github.com/1-dara
 -  **WhatsApp:** https://wa.me/2349074342716
 
+---
+
+<div align="left">
+
+If you like my work, consider giving a ⭐ to a repository or connecting with me.
 
 </div>
