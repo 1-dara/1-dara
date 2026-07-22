@@ -31,7 +31,6 @@ I enjoy solving complex backend problems and writing clean, maintainable code th
 ##  Languages & Tools
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -45,25 +44,26 @@ I enjoy solving complex backend problems and writing clean, maintainable code th
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square"/>
+<img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/RBAC-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
@@ -77,6 +77,8 @@ I enjoy solving complex backend problems and writing clean, maintainable code th
 
 ---
 
+<div align="left">
+
 ##  GitHub Activity
 
 <div align="center">
@@ -87,9 +89,9 @@ I enjoy solving complex backend problems and writing clean, maintainable code th
 
 ---
 
-<div align="center">
-
 ##  Support ❤️
+
+<div align="left">
 
 If you like my work, consider giving a ⭐ to a repository or connecting with me.
 
