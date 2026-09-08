@@ -95,10 +95,9 @@ I enjoy solving complex backend problems and writing clean, maintainable code th
 
 If you're building something interesting or looking for a backend engineer, I'd love to connect.
 
--  **Email:** [1ireneokon@gmail.com](mailto:1ireneokon@gmail.com)
+-  **Email:** [ireneokon01@gmail.com](mailto:ireneokon01@gmail.com)
 -  **Portfolio:** https://irene-okon.vercel.app
 -  **GitHub:** https://github.com/1-dara
--  **WhatsApp:** https://wa.me/2349074342716
 
 ---
 
